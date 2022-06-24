@@ -103,12 +103,4 @@ Berikut adalah pembagian tugas yang dilakukan
 
 10. history 2 : 13515012
 
-## About
-
-Mahasiswa IF3110 2017
-
-Rio | Amuz | Royyan
-
-Dosen : Yudistira Dwi Wardhana | Riza Satria Perdana | Muhammad Zuhri Catur Candra
-
 
